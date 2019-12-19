@@ -1,4 +1,4 @@
-# template-project-GCP-Cloud-Shell-Tutorial
+# Real Time Machine Learning with Google Cloud ML
 Template project for a cloud shell tutorial  
 DeleteMe- Find all sections that say DeleteMe, these should be deleted.  
 ReplaceMe- Sections, keywords, id numbers that need to be replaced or personalized.  
